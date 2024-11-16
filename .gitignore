@@ -38,10 +38,6 @@ wheels/
 venv/
 ENV/
 
-# Generated output
-output/*.png
-*.png
-
 # OS specific
 .DS_Store
 Thumbs.db
