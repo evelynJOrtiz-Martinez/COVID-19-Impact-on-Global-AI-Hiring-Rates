@@ -52,6 +52,15 @@ The analysis produces several visualizations:
 3. top_10_impacted.png - Most impacted countries
 4. recovery_analysis.png - Impact vs recovery analysis
 
+## Key Takeaways:​
+
+- The COVID-19 pandemic had a profound but highly variable impact on global AI hiring practices across 28 countries with an average decline of 35.75%​
+- Statistical analysis (p<0.0001) confirms these changes were systematic rather than random,​ The UAE experienced severe declines (-69.43%), while Chile showed remarkable growth (+7.85%)​
+- Heavy reliance on physical presence sectors (oil, tourism, real estate)​
+- Many businesses traditionally preferred in-person operations​
+- Chile was the first country in Latin America to launch 5G networks in 2021, demonstrating its commitment to technological advancement​
+- Success stories from resilient countries offer valuable lessons for future crisis preparation
+
 ## Project Structure
 ```
 .
